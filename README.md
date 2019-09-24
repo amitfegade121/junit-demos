@@ -1,0 +1,1 @@
+This project consists of basic JUnit programs.
